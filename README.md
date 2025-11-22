@@ -68,10 +68,3 @@ If you want to run this project on your local machine, follow these steps:
     Simply open the `index.html` file in your browser to start the application.
 
 ---
-
-## 🔮 Future Improvements (Roadmap)
-* Integration of **SEO Meta Tags** for individual content pages.
-* Adding a "Favorites" wishlist using **Local Storage**.
-* Implementing Pagination to handle larger datasets efficiently.
-
----
