@@ -75,9 +75,3 @@ If you want to run this project on your local machine, follow these steps:
 * Implementing Pagination to handle larger datasets efficiently.
 
 ---
-
-### 👤 Author
-**[Your Name]**
-*Aspiring Web Developer & Tech Enthusiast*
-* [LinkedIn Profile](Your_LinkedIn_Link)
-* [Portfolio](Your_Portfolio_Link)
