@@ -5,11 +5,6 @@
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
 ![Tech Stack](https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20JavaScript-blue)
 
----
-
-## 🚀 Live Demo
-**[🔴 View Live Project Here](YOUR_VERCEL_OR_NETLIFY_LINK_HERE)**
-*(Click the link above to test the application)*
 
 ---
 
